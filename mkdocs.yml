@@ -3,3 +3,7 @@ site_url: 'https://Konstanta-it.github.io/mes4food/'
 theme:
     name: material
     custom_dir: overrides
+nav:
+  - index.md
+  - Тестовая директория:
+     - catalog1/test1.md
